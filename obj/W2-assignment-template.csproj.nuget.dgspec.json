@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\School\\.NET Databases\\W2\\w2-expanding-on-arrays-and-complex-csv-parsing\\W2-assignment-template.csproj": {}
+    "C:\\.C#\\School\\W3\\W3_homework\\W2-assignment-template.csproj": {}
   },
   "projects": {
-    "D:\\C#\\School\\.NET Databases\\W2\\w2-expanding-on-arrays-and-complex-csv-parsing\\W2-assignment-template.csproj": {
+    "C:\\.C#\\School\\W3\\W3_homework\\W2-assignment-template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\School\\.NET Databases\\W2\\w2-expanding-on-arrays-and-complex-csv-parsing\\W2-assignment-template.csproj",
+        "projectUniqueName": "C:\\.C#\\School\\W3\\W3_homework\\W2-assignment-template.csproj",
         "projectName": "W2-assignment-template",
-        "projectPath": "D:\\C#\\School\\.NET Databases\\W2\\w2-expanding-on-arrays-and-complex-csv-parsing\\W2-assignment-template.csproj",
-        "packagesPath": "C:\\Users\\Ethan Kristl\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\School\\.NET Databases\\W2\\w2-expanding-on-arrays-and-complex-csv-parsing\\obj\\",
+        "projectPath": "C:\\.C#\\School\\W3\\W3_homework\\W2-assignment-template.csproj",
+        "packagesPath": "C:\\Users\\ethan\\.nuget\\packages\\",
+        "outputPath": "C:\\.C#\\School\\W3\\W3_homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ethan Kristl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ethan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,19 +59,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.26, 6.0.26]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.26, 6.0.26]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.26, 6.0.26]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.26, 6.0.26]"
             }
           ],
           "frameworkReferences": {
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

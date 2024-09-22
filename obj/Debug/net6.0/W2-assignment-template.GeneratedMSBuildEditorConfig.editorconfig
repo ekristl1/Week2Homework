@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = W2_assignment_template
-build_property.ProjectDir = D:\C#\School\.NET Databases\W2\w2-expanding-on-arrays-and-complex-csv-parsing\
+build_property.ProjectDir = C:\.C#\School\W3\W3_homework\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
